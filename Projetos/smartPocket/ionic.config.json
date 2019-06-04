@@ -1,0 +1,7 @@
+{
+  "name": "smartPocket",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
